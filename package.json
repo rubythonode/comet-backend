@@ -42,6 +42,7 @@
     "mongoose-int32": "^0.2.0",
     "node-bbcode": "^1.0.0",
     "node-uuid": "^1.4.7",
-    "redis": "^2.6.3"
+    "redis": "^2.6.3",
+    "socket.io": "^1.7.2"
   }
 }

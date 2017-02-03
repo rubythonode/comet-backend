@@ -31,7 +31,6 @@
     "async": "^2.1.2",
     "bcrypt": "^0.8.7",
     "body-parser": "^1.15.2",
-    "connect-redis": "^3.1.0",
     "cors": "^2.8.1",
     "ejs": "^2.5.2",
     "ejs-mate": "^2.3.0",
